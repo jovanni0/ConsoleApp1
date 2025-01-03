@@ -14,5 +14,7 @@ class Program
         int result = a + b;
         Console.WriteLine(result);
         Console.Write("modific chestii");
+        
+        Console.Write("Hello!");
     }
 }
