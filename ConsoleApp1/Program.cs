@@ -6,5 +6,6 @@ class Program
     {
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello, World!");
+        Console.Write("Buna Ioan! Am fost in proiectul tau");
     }
 }
